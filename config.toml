@@ -10,6 +10,8 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
 
+enableGitInfo = true
+
 # Needed for mermaid shortcodes
 [markup]
   [markup.goldmark.renderer]
@@ -18,3 +20,7 @@ disablePathToLower = true
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 9
+
+[params]
+  geekdocRepo = "https://github.com/benmezger/technotes"
+  geekdocEditPath = "edit/main/exampleSite/content"
