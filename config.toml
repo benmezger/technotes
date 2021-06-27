@@ -23,4 +23,4 @@ enableGitInfo = true
 
 [params]
   geekdocRepo = "https://github.com/benmezger/technotes"
-  geekdocEditPath = "edit/main/exampleSite/content"
+  geekdocEditPath = "edit/main/content"
