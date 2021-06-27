@@ -13,7 +13,7 @@ geekdocAnchor: true
 
 <!-- markdownlint-restore -->
 
-`mytech.wiki` keeps personal technical notes for future reference and is maintained by [Ben Mezger](https://seds.nl)
+`technotes.wiki` keeps personal technical notes for future reference and is maintained by [Ben Mezger](https://seds.nl)
 
 ### RISC-V
 
