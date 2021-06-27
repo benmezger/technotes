@@ -1,4 +1,4 @@
-baseURL = "https://mytech.wiki"
+baseURL = "https://technotes.wiki"
 languageCode = "en-us"
 title = "Technical notes"
 theme = "geekdoc"
